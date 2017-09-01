@@ -1,2 +1,2 @@
-[ringtwister](http://github.com/aezol/zynthlabs.com/img/ring.gif)
+[ringtwister](http://github.com/aezol/zynthlabs/img/ring.gif)
 # zynthlabs
